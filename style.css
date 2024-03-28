@@ -103,6 +103,7 @@
     font-size: 90px;
     margin-bottom: 20px;
     color: #384A62;
+    /* padding-left: -40px; */
 }
 .doorstep{
     font-size: 40px;
@@ -388,6 +389,7 @@ footer{
 .text{
     width: 400px;
     padding: 0px 0px 0px 10px;
+    border: 2px solid red;
 }
 .text h1{
     font-size: 40px;
@@ -396,6 +398,7 @@ footer{
 .doorstep{
     font-size: 20px;
     margin-bottom: 20px;
+    
 }
 label{
     font-size: 18px;
