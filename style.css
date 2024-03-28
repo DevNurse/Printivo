@@ -389,7 +389,6 @@ footer{
 .text{
     width: 400px;
     padding: 0px 0px 0px 10px;
-    border: 2px solid red;
 }
 .text h1{
     font-size: 40px;
